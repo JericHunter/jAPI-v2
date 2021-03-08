@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/JericHunter/jAPI-v2.git"
+    "url": "git+https://github.com/JericHunter/jAPI-v2.git"
   },
   "author": "Jeric Hunter",
   "license": "ISC",
