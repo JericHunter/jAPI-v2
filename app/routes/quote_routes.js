@@ -1,0 +1,1 @@
+module.exports = function(app, db) {  app.post('/japi-v2', (req, res) => {  });}
