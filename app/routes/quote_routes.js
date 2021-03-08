@@ -1,1 +1,1 @@
-module.exports = function(app, db) {  app.post('/japi-v2', (req, res) => {  });}
+module.exports = function(app, db) {  app.post('/japi-v2', (req, res) => {console.log(req.body), res.send('Hello')  });};
