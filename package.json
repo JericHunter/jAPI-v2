@@ -1,0 +1,19 @@
+{
+  "name": "japi-v2",
+  "version": "1.0.0",
+  "description": "quote api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JericHunter/jAPI-v2.git"
+  },
+  "author": "Jeric Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JericHunter/jAPI-v2/issues"
+  },
+  "homepage": "https://github.com/JericHunter/jAPI-v2#readme"
+}
